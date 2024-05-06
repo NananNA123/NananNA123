@@ -1,0 +1,67 @@
+/* Add to body of website */
+body { 
+    background: white;
+    height: 200vh;
+    margin: 0px;
+}
+
+/* font for text "Sushi Hub" */ 
+
+h1{
+    color: white;
+    text-align: left;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+/* Adding color to heading 1 */
+h1 {
+    overflow-block: hidden;
+    background-color: #000; 
+    margin: 0%;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 32pt;
+}
+
+/* Add colour to navigation bar */ 
+.topnav { 
+    background-color: #000;
+    overflow: hidden;
+    margin: auto;
+}
+
+
+
+
+/* Style links inside the navigation bar */ 
+.topnav a {
+    float: left; 
+    color: #f2f2f2;
+    text-align: center;
+    padding: 15px 16px;
+    text-decoration: none;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* change the color of links on the hover aspect */ 
+.topnav a:hover { 
+    background-color: rgb(213, 25, 25);
+    color: rgb(255, 255, 255);
+}
+
+/* add a color to the active/current link */
+.topnav a.active {
+    background-color: #212f2700;
+    color: white;
+}
+
+
+/* Add to title/logo of page */
+
+
+
+/* add images in desired format */
+
