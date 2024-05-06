@@ -1,0 +1,62 @@
+/* Fix body of webpage */
+body { 
+    background: white;
+    height: 200vh;
+    margin: 0px;
+}
+
+/* Add title of page */
+
+
+/* Add colour to navigation bar */ 
+.topnav { 
+    background-color: #000;
+    overflow: hidden;
+    margin: auto;
+}
+
+/* Style links inside the navigation bar */ 
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: right;
+    padding: 15px 16px;
+    text-decoration: none;
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* change the color of links on the hover aspect */ 
+.topnav a:hover { 
+    background-color: rgb(213, 25, 25);
+    color: rgb(255, 255, 255);
+}
+
+/* add a color to the active/current link */
+.topnav a.active {
+    background-color: #212f2700;
+    color: white;
+}
+
+/* font for text "Sushi Hub" */ 
+
+h1 {
+    color: white;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', sans-serif;
+}
+
+/* Adding color to heading 1 */
+h1 {
+    overflow-block: hidden;
+    background-color: #000; 
+    margin: 0%;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 32pt;
+}
+
+
+
